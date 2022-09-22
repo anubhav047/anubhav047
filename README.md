@@ -12,7 +12,6 @@
  * 🌱 Learning C++, HTML , CSS , JavaScript and PHP. 
  * 👯 Looking to freelance and collaborate on Open Source Projects. 
  * 💬 Ask me about what I've learned recently.
- * 📫 How to reach me: Instagram - @anubhav_04
  * ⚡ Fun fact: I love house music especially while coding.
  * 📫 You can reach me at **goelanubhav2003@gmail.com**
 
