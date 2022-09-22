@@ -14,6 +14,7 @@
  * 💬 Ask me about what I've learned recently.
  * 📫 How to reach me: Instagram - @anubhav_04
  * ⚡ Fun fact: I love house music especially while coding.
+ * 📫 You can reach me at **goelanubhav2003@gmail.com**
 
 ## Languages and Tools:
 <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,html,css,js,php,py,cpp,git,react,mysql&theme=dark&perline=5" alt="language and tools"/></p>
