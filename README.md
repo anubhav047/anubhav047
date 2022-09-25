@@ -19,7 +19,7 @@
 <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,html,css,js,php,py,cpp,git,react,mysql&theme=dark&perline=5" alt="language and tools"/></p>
 
 ## Stats:
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=anubhav047&show_icons=true&theme=tokyonight" alt="git stats"></p> 
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=anubhav047&show_icons=true&theme=tokyonight" alt="git stats"></p> 
 
 ## Connect with me:
 <p align="center">
