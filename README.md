@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://user-images.githubusercontent.com/91625106/191700194-b0c8a981-7ac2-44f1-aad6-33fd9c5a72af.png" height="175"/></a>
+<a href="#"><img width="100%" height="auto" src="https://user-images.githubusercontent.com/91625106/191700194-b0c8a981-7ac2-44f1-aad6-33fd9c5a72af.png" height="175"/> </a>
 
 <h1 align="center"><img src="https://user-images.githubusercontent.com/91625106/191702005-fb29bcd6-a712-4000-a331-4e4b5e24a139.gif" width="30px" height="30px" alt="waving hello"> Hello there! I'm Anubhav. 😊 </h1>
 
