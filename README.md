@@ -9,14 +9,15 @@
 <p align="left">I've been developing my software engineering abilities for the past year with the express purpose of bringing my artistic dreams to life through code.</p>
 
  * 🌴 Residing in Noida
- * 🌱 Learning C++, HTML , CSS , JavaScript and PHP. 
+ * 🌱 Learning C++, HTML , CSS , JavaScript.
+ * 🌱 Creating MERN stack projects
  * 👯 Looking to freelance and collaborate on Open Source Projects. 
  * 💬 Ask me about what I've learned recently.
  * ⚡ Fun fact: I love house music especially while coding.
  * 📫 You can reach me at **goelanubhav2003@gmail.com**
 
 ## Languages and Tools:
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,html,css,js,php,py,cpp,git,react,mysql&theme=dark&perline=5" alt="language and tools"/></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,html,css,js,py,cpp,git,react,express,node,mongodb,mysql&theme=dark&perline=5" alt="language and tools"/></p>
 
 ## Stats:
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=anubhav047&show_icons=true&theme=tokyonight" alt="git stats"></p> 
